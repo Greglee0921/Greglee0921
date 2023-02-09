@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gregory Lee</h1>
 <h3 align="center">I'm a Software Engineer who loves to solve problems through code</h3>
 
-- 🌱 I’m currently learning **Next.js, Python**
+- 🌱 I’m currently learning: **Next.js, Python**
 
-- 👨‍💻 All of my projects are available at [https://www.greglee.dev/](https://www.greglee.dev/)
+- 👨‍💻 All of my projects are available at: [https://www.greglee.dev/](https://www.greglee.dev/)
 
-- 📫 How to reach me **greglee0921@gmail.com**
+- 📫 How to reach me: **greglee0921@gmail.com**
 
 - 📄 Know about my experiences [Rèsumè](https://docs.google.com/document/d/e/2PACX-1vTlAoHe1kB2RD2GaBptywmkSrpUKDbtD1cGLat_UbcRlG_aYOdYVdkJbEU4WEtDKjUaBuSAOXrRQozx/pub)
 
