@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **greglee0921@gmail.com**
 
-- 📄 Know about my experiences Rèsumè(https://docs.google.com/document/d/e/2PACX-1vTlAoHe1kB2RD2GaBptywmkSrpUKDbtD1cGLat_UbcRlG_aYOdYVdkJbEU4WEtDKjUaBuSAOXrRQozx/pub)
+- 📄 Know about my experiences [Rèsumè](https://docs.google.com/document/d/e/2PACX-1vTlAoHe1kB2RD2GaBptywmkSrpUKDbtD1cGLat_UbcRlG_aYOdYVdkJbEU4WEtDKjUaBuSAOXrRQozx/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
